@@ -7,6 +7,9 @@
 ## Description
 A fun interative way to engage the user to create cars, trucks, and motobikes. Allow users to choose from a list of options using Inquirer node package.
 
+## Demo Video
+https://youtu.be/on1WKZ-fj6U?si=MbjNzU2gPhOMpGpF
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
